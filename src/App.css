@@ -1,0 +1,60 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css);
+@import url(https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.3/css/mdb.min.css);
+body {
+  background-image: url("2.jpg");
+  background-size: cover;
+}
+.form-gradient {
+  text-align: center;
+}
+.card {
+  margin-top: 100px;
+  background: linear-gradient(to right, #b2ebf2, #3282b8);
+}
+input[type="text"] {
+  background-color: transparent;
+  border: 0;
+  border-bottom: solid 1px #41444b;
+  width: 30%;
+  padding-bottom: 4px;
+  color: #000000 !important;
+  letter-spacing: 2px;
+  margin-bottom: 30px;
+  margin-right: 20px;
+  font-size: 20px;
+  float: left;
+}
+
+input[type="text"] {
+  outline: none;
+}
+
+input:-webkit-autofill {
+  -webkit-box-shadow: 0 0 0 30px #b2ebf2 inset;
+  -webkit-text-fill-color: #41444b !important;
+}
+input[type="submit"] {
+  border: 0;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-weight: bolder;
+  letter-spacing: 1px;
+  font-size: 18px;
+  cursor: pointer;
+  background-color: #41444b;
+  color: #fff;
+  font-weight: 100;
+}
+
+input[type="submit"]:active {
+  outline: none;
+}
+input[type="submit"]:hover {
+  cursor: pointer;
+}
+
+.property {
+  font-size: 25px;
+  font-family: serif;
+  flood-color: #41444b;
+}
