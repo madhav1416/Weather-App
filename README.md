@@ -2,10 +2,10 @@
 This is app made to find the Weather report of your Location . 
 
 ## Set-Up Instructions
-*clone the repository using github clone
-*go to the main directory by ### `cd weatherapp`
-*run ### `npm install`
-*to start the server run ### `npm start`
+*clone the repository using github clone </br>
+*go to the main directory by `cd weatherapp` </br>
+*run ### `npm install` </br>
+*to start the server run `npm start` </br>
 *manage the project
 
 ## Available Scripts
